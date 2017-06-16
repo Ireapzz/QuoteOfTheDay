@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "318629170956",
+    "firebase_url": "https://quote-of-the-day-345b0.firebaseio.com",
+    "project_id": "quote-of-the-day-345b0",
+    "storage_bucket": "quote-of-the-day-345b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318629170956:android:d46799999aba1656",
+        "android_client_info": {
+          "package_name": "com.example.dtixador.quoteoftheday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318629170956-6i8k3j4io7hi0q2a9bvij2cvk13b3qvv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEoGtsk3C0oFnz6ZM7TD7N6WGIMJQnSz8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
