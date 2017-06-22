@@ -195,8 +195,8 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder>  {
 
 
             ////////////////////////////////////////////////////////////////////////////////////////
-            //// TODO: 18/05/2017 REVOIR CLICK SUR FAVORI AJOUT DANS BDD                   ////////
-            ///////////////////////////////////////////////////////////////////////////////////////
+            //// TODO: 18/05/2017 REVOIR CLICK SUR FAVORI AJOUT DANS BDD                     //////
+            //////////////////////////////////////////////////////////////////////////////////////
             public void onClick(View v) {
                 if (!favFlag) {
                     holder.imgFav.setImageResource(R.drawable.favo);
